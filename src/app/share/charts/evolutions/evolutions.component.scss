@@ -1,0 +1,8 @@
+.main__chart__container {
+  display: grid;
+  gap: 1em;
+  grid-template-rows: minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr);
+  height: calc(100vh - 4em);
+  width: calc(100vw - 2em);
+ }
