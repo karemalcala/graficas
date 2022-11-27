@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Production
 
-view in production by browsing to: `https://graficas.vercel.app/`
+view in production by browsing to: [App](https://graficas.vercel.app/)
 
 ## Development server
 
